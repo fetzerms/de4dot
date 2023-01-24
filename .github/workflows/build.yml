@@ -1,4 +1,4 @@
-name: GitHub CI - Test
+name: GitHub CI - Fetzerms
 on:
   push:
     branches:
